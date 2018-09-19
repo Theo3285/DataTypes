@@ -45,7 +45,7 @@ If the number cannot be stored in one of the four aforementioned primitives, pri
 > \* int  
 > \* long   
 > 150000 can be fitted in:  
-> \* int
+> \* int  
 > \* long  
 > 1500000000 can be fitted in:  
 > \* int  
